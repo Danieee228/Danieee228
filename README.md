@@ -17,7 +17,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danieee228&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieee228&" height="150" alt="streak" />
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=danieee228&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="langs" />
