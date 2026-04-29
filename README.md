@@ -9,7 +9,10 @@
   <a href="https://www.linkedin.com/in/%C4%91%C4%83ng-nguy%E1%BB%85n-6ab10a3a8/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:minhdang22082003@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
+    <img src="https://skillicons.dev/icons?i=c,css,html,java,js,react,redux,tailwind,sass,nodejs,mysql,firebase,git,postman" />
+</p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danieee228&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats" />
 </div>
